@@ -17,7 +17,7 @@ function isPalindrome(word) {
 /*
   Add written explanation of your solution here
   the function isPalindrome first converts the word to lower case
-  it then gives a condition such that if the first letter deeply equals the last letter,
+  it then gives a condition such that if the first part of the word deeply equals the corresponding last part,
   it returns true, else it returns false
 */
 
